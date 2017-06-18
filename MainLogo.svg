@@ -42,11 +42,11 @@
      borderopacity="1.0"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.16573736"
-     inkscape:cx="1019.8257"
-     inkscape:cy="1819.1432"
+     inkscape:zoom="1.0639223"
+     inkscape:cx="1510.1406"
+     inkscape:cy="2927.9627"
      inkscape:document-units="px"
-     inkscape:current-layer="g4503"
+     inkscape:current-layer="layer1"
      showgrid="false"
      inkscape:window-width="1317"
      inkscape:window-height="744"
@@ -68,7 +68,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -1549,6 +1549,124 @@
            x="-277.34637"
            id="tspan4460-6"
            sodipodi:role="line">Final idea for flasher PCB (50 x 71.8mm)</tspan></text>
+    </g>
+    <g
+       id="g6227"
+       transform="matrix(1.75,0,0,1.75,-625.57672,-193.53606)"
+       inkscape:export-filename="/home/craig/Documents/HMI/Graphics/PNGs/HobartMakers262x70.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
+      <rect
+         style="opacity:1;fill:#4e9a06;fill-opacity:1;stroke:none;stroke-width:10;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="rect6330-8"
+         width="150"
+         height="40"
+         x="834.10229"
+         y="218.04808"
+         rx="0.3096157"
+         ry="0.02288517" />
+      <g
+         transform="translate(443.88248,-389.00942)"
+         id="g4349-7"
+         style="fill:#ffffff">
+        <g
+           id="g6276-4"
+           transform="matrix(0.09468319,0,0,0.09468319,350.9604,594.80808)"
+           style="fill:#ffffff"
+           inkscape:export-filename="/home/craig/HobartMakerspace.png"
+           inkscape:export-xdpi="111.54"
+           inkscape:export-ydpi="111.54">
+          <rect
+             ry="0.23469758"
+             rx="3.0694299"
+             y="185.14624"
+             x="596.98999"
+             height="49.497475"
+             width="20.203051"
+             id="rect6278-9"
+             style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:6;stroke-miterlimit:4;stroke-dasharray:none" />
+          <rect
+             transform="matrix(0.70710678,0.70710678,-0.70710678,0.70710678,0,0)"
+             style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:6;stroke-miterlimit:4;stroke-dasharray:none"
+             id="rect6280-2"
+             width="20.203051"
+             height="49.497475"
+             x="642.90558"
+             y="-337.77887"
+             rx="3.0694299"
+             ry="0.23469758" />
+          <rect
+             ry="0.23469758"
+             rx="3.0694299"
+             y="-740.8302"
+             x="294.80368"
+             height="49.497475"
+             width="20.203051"
+             id="rect6282-4"
+             style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:6;stroke-miterlimit:4;stroke-dasharray:none"
+             transform="matrix(0,1,-1,0,0,0)" />
+          <rect
+             ry="0.23469758"
+             rx="3.0694299"
+             y="520.89301"
+             x="-215.76633"
+             height="49.497475"
+             width="20.203051"
+             id="rect6284-4"
+             style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:6;stroke-miterlimit:4;stroke-dasharray:none"
+             transform="matrix(-0.70710678,0.70710678,0.70710678,0.70710678,0,0)" />
+          <rect
+             transform="matrix(0,1,1,0,0,0)"
+             style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:6;stroke-miterlimit:4;stroke-dasharray:none"
+             id="rect6286-5"
+             width="20.203051"
+             height="49.497475"
+             x="294.80368"
+             y="473.51529"
+             rx="3.0694299"
+             ry="0.23469758" />
+          <rect
+             ry="0.37599507"
+             rx="3.0694299"
+             y="-646.59399"
+             x="429.23767"
+             height="79.296974"
+             width="20.203051"
+             id="rect6288-9"
+             style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:6;stroke-miterlimit:4;stroke-dasharray:none"
+             transform="matrix(0,1,-1,0,0,0)" />
+          <rect
+             transform="matrix(0,1,-1,0,0,0)"
+             style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:6;stroke-miterlimit:4;stroke-dasharray:none"
+             id="rect6290-1"
+             width="20.203051"
+             height="79.296974"
+             x="459.23767"
+             y="-646.59399"
+             rx="3.0694299"
+             ry="0.37599507" />
+          <path
+             inkscape:connector-curvature="0"
+             id="path6292-2"
+             d="m 606.73047,249.35352 c -37.93669,5.1e-4 -68.69002,30.75471 -68.68945,68.6914 0.0194,0.21193 0.0479,0.40902 0.0684,0.61914 -1.4935,31.67707 29.31793,52.6984 28.8457,78.2168 0,12.49841 0.29367,22.56055 0.6582,22.56055 l 0.3418,0 77.63867,0 0.3418,0 c 0.36453,0 0.6582,-10.06214 0.6582,-22.56055 -0.47223,-25.5184 30.3392,-46.53973 28.8457,-78.2168 0.0205,-0.21012 0.0489,-0.40721 0.0684,-0.61914 5.7e-4,-37.93669 -30.75276,-68.69089 -68.68945,-68.6914 -0.0151,0 -0.0299,0.002 -0.0449,0.002 -0.0144,-1e-5 -0.0285,-0.002 -0.043,-0.002 z"
+             style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:6;stroke-miterlimit:4;stroke-dasharray:none" />
+        </g>
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:27.76615524px;line-height:85.00000238%;font-family:'League Gothic';-inkscape-font-specification:'League Gothic';letter-spacing:0px;word-spacing:0px;fill:#ffffff;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           x="424.15015"
+           y="636.36438"
+           id="text6294-8"
+           sodipodi:linespacing="85.000002%"
+           inkscape:export-filename="/home/craig/HobartMakerspace.png"
+           inkscape:export-xdpi="111.54"
+           inkscape:export-ydpi="111.54"><tspan
+             sodipodi:role="line"
+             x="424.15015"
+             y="636.36438"
+             id="tspan6298-9"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:85.00000238%;font-family:'League Gothic';-inkscape-font-specification:'League Gothic';fill:#ffffff;stroke:none">Hobart Makers</tspan></text>
+      </g>
     </g>
   </g>
 </svg>
